@@ -1,0 +1,7 @@
+langchain-core>=0.1.19
+langchain-community>=0.0.19
+langchain-groq>=0.0.3
+langgraph>=0.0.30
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+typing-extensions>=4.8.0 
