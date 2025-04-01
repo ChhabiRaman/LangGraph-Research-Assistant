@@ -23,7 +23,6 @@ The system is organized into several key components:
 1. Clone the repository:
    ```
    git clone [repository-url]
-   cd research_assistant
    ```
 
 2. Install dependencies:
